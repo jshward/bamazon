@@ -1,6 +1,6 @@
 # bamazon
 ## A CLI ordering thingie!
-####Which doesn't do anything just shows that I kinda get MySQL
+#### Which doesn't do anything just shows that I kinda get MySQL
 
 Run the included program through nodejs. It should give you a list of charming items to purchase. 
 Then it should ask you which you would like to purchase.
