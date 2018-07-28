@@ -10,5 +10,6 @@ If you choose poorly, it will mock you.
 If you choose a valid quantity to order, your order will placed and you will be given your total and a shipping estimate.
 If you fail to choose the right quantity, you will be mocked.
 
-There's going to be screenshots here. Eventually
+If you try to use the quit command to close the connection, it will, fail as I have yet to immplement such a command(AKA Known Issue).
+
 
